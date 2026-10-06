@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.syncsphere.android.app-debug-32:/xml_accessibility_service_config.xml.flat",
+        "source": "com.syncsphere.android.app-main-34:/xml/accessibility_service_config.xml"
+    }
+]

@@ -1,0 +1,35 @@
+com.syncsphere.android.app-lifecycle-livedata-core-2.6.2-0 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\0146c0c816503878e5d3c7d9ed2fc746\transformed\lifecycle-livedata-core-2.6.2\res
+com.syncsphere.android.app-viewpager2-1.0.0-1 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\063f9fd933507296906cfb1d089c4fe3\transformed\viewpager2-1.0.0\res
+com.syncsphere.android.app-profileinstaller-1.3.1-2 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\1b739d22255fb35d011155e068dd26d9\transformed\profileinstaller-1.3.1\res
+com.syncsphere.android.app-appcompat-1.7.0-3 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\23695f2ac009ea2a79d943ee1eda17a3\transformed\appcompat-1.7.0\res
+com.syncsphere.android.app-core-runtime-2.2.0-4 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\308fe9032ec9985b1ca9074cef847a7d\transformed\core-runtime-2.2.0\res
+com.syncsphere.android.app-lifecycle-process-2.6.2-5 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\3b538a9f3ea62a331ea23254e6288340\transformed\lifecycle-process-2.6.2\res
+com.syncsphere.android.app-emoji2-1.3.0-6 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\3d3ed5ce7ebea5612e95a822c74ea395\transformed\emoji2-1.3.0\res
+com.syncsphere.android.app-core-ktx-1.15.0-7 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\42d6cfaa4a0fbb0310a78ba9f548c679\transformed\core-ktx-1.15.0\res
+com.syncsphere.android.app-annotation-experimental-1.4.1-8 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\465c4a3bca4265f681b5be82824003de\transformed\annotation-experimental-1.4.1\res
+com.syncsphere.android.app-emoji2-views-helper-1.3.0-9 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\668046ddeece3099e80e3b5e64296e11\transformed\emoji2-views-helper-1.3.0\res
+com.syncsphere.android.app-coordinatorlayout-1.1.0-10 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\6f3e2eb87fa4c8eda4b4a79e7a7ed0cc\transformed\coordinatorlayout-1.1.0\res
+com.syncsphere.android.app-drawerlayout-1.1.1-11 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\7b69f820640c3e528092291ebf8059ad\transformed\drawerlayout-1.1.1\res
+com.syncsphere.android.app-transition-1.5.0-12 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\8458ff5d5d3b8175f0b9a99404263904\transformed\transition-1.5.0\res
+com.syncsphere.android.app-material-1.12.0-13 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\873cc8d912f0eddbd03db2397357f531\transformed\material-1.12.0\res
+com.syncsphere.android.app-activity-1.8.0-14 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\8ed02409eac522de6e9a6637ef1b7d24\transformed\activity-1.8.0\res
+com.syncsphere.android.app-cardview-1.0.0-15 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\96df0397847e5cf5ed59516e753830cc\transformed\cardview-1.0.0\res
+com.syncsphere.android.app-tracing-1.2.0-16 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\997a73ce6f47c02186321fdd97620778\transformed\tracing-1.2.0\res
+com.syncsphere.android.app-core-1.15.0-17 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\9c3159305105ad04f32024f2ceffbf63\transformed\core-1.15.0\res
+com.syncsphere.android.app-lifecycle-viewmodel-2.6.2-18 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\a428f6eac750395b3a0040d14701a0be\transformed\lifecycle-viewmodel-2.6.2\res
+com.syncsphere.android.app-savedstate-1.2.1-19 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\b8ee5532377a6835df5fc06a529300e9\transformed\savedstate-1.2.1\res
+com.syncsphere.android.app-startup-runtime-1.1.1-20 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\c2553547e57ab8a8f4a1afd407d98e34\transformed\startup-runtime-1.1.1\res
+com.syncsphere.android.app-constraintlayout-2.0.1-21 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\d76dbed1c8ee5f3ab156920b0477a01a\transformed\constraintlayout-2.0.1\res
+com.syncsphere.android.app-lifecycle-livedata-2.6.2-22 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\db5211a45bdc68e1494bced95004391d\transformed\lifecycle-livedata-2.6.2\res
+com.syncsphere.android.app-recyclerview-1.1.0-23 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\f34b74e7ffd740163adadb66f1843957\transformed\recyclerview-1.1.0\res
+com.syncsphere.android.app-lifecycle-viewmodel-savedstate-2.6.2-24 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\f6eee7d44de706d3f758d24e1217bd6e\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.syncsphere.android.app-fragment-1.5.4-25 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\faaac9f40f7f7f4244e23848cf5f8b8d\transformed\fragment-1.5.4\res
+com.syncsphere.android.app-lifecycle-runtime-2.6.2-26 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\fbb208d39ea5ee89d2c9aab222f4e905\transformed\lifecycle-runtime-2.6.2\res
+com.syncsphere.android.app-appcompat-resources-1.7.0-27 C:\Users\Sudharson Sudha\.gradle\caches\9.0.0\transforms\fc8f16eb0ebffc315a96da9b121af035\transformed\appcompat-resources-1.7.0\res
+com.syncsphere.android.app-pngs-28 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\build\generated\res\pngs\debug
+com.syncsphere.android.app-resValues-29 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\build\generated\res\resValues\debug
+com.syncsphere.android.app-packageDebugResources-30 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.syncsphere.android.app-packageDebugResources-31 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.syncsphere.android.app-debug-32 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.syncsphere.android.app-debug-33 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\src\debug\res
+com.syncsphere.android.app-main-34 C:\Users\Sudharson Sudha\Desktop\project X\Project-Y-\android\app\src\main\res

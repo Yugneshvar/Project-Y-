@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Allows SyncSphere to perform authorized touch gestures from the paired Windows computer.</string>
+    <string name="app_name">SyncSphere Remote</string>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#2563eb</item></style>
+</resources>

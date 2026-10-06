@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SyncSphere Remote</string>
+    <string name="accessibility_service_description">Allows SyncSphere to perform authorized touch gestures from the paired Windows computer.</string>
+</resources>
